@@ -1,12 +1,12 @@
 
 if(1)
 {
-  console.log("Hello");
+  console.log("bye");
 }
 
 
 if(0)
 {
-  console.log("Hi");
+  console.log("masai");
 }
 
